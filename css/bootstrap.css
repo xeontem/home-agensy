@@ -6132,7 +6132,7 @@ button.close {
   left: 10%; /*here 15%*/
   z-index: 10;
   padding-top: 20px;
-  padding-bottom: 15px; /*here 20px*/
+  padding-bottom: 15px; 
   color: #fff;
   text-align: center;
 }
